@@ -26,16 +26,21 @@ This repository is a **showcase version** prepared for academic review (PhD appl
 - **Participants:** N = 8 university students
 - **Instruments:** UEQ-S · SUS · NASA-TLX
 - **Summary results:**
-  - UEQ-S overall: **1.17 ("Good")**
+  - UEQ-S overall: **1.17** (*Good*)
   - SUS mean: **60.3**
-  - NASA-TLX overall workload: **3.85 (moderate)**
+  - NASA-TLX overall workload: **3.85** (*moderate*)
 
 > Note: This study served as an initial pilot evaluation. Future work includes longer-term and longitudinal assessment.
 
 ---
 
 ## Architecture (MVVM)
-![](Architecture.png)
+![](architecture.png)
+
+---
+
+## Demo Code (Selected Modules)
+Selected non-sensitive Swift modules are available in [`demo-code/`](demo-code/) for academic review.
 
 ---
 
