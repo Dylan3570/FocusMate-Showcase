@@ -3,8 +3,9 @@
 **FocusMate** is a student-focused mobile productivity application designed to support **task planning**, **sustained focus**, and **reduced procrastination**.  
 This repository is a **showcase version** prepared for academic review (PhD applications / research portfolio).
 
-**Demo video:** https://www.youtube.com/watch?v=gZGz5pA5KOI  
-**App Store:** https://apps.apple.com/ie/app/focusmate/id6752814522
+## Quick Links
+- **Demo video:** https://www.youtube.com/watch?v=gZGz5pA5KOI
+- **App Store:** https://apps.apple.com/ie/app/focusmate/id6752814522
 
 ---
 
