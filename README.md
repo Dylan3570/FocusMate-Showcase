@@ -6,6 +6,7 @@ This repository is a **showcase version** prepared for academic review (PhD appl
 ## Quick Links
 - **Demo video:** https://www.youtube.com/watch?v=gZGz5pA5KOI
 - **App Store:** https://apps.apple.com/ie/app/focusmate/id6752814522
+- **Research summary:** research-summary.md
 
 ---
 
