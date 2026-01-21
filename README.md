@@ -1,13 +1,13 @@
-# FocusMate (Showcase) — iOS App for Reducing Student Procrastination
+# FocusMate (Showcase) — Mobile App for Reducing Student Procrastination
 
-**FocusMate** is a student-focused iOS productivity application designed to support **task planning**, **sustained focus**, and **reduced procrastination**.  
+**FocusMate** is a student-focused mobile productivity application designed to support **task planning**, **sustained focus**, and **reduced procrastination**.  
 This repository is a **showcase version** prepared for academic review (PhD applications / research portfolio).
 
 ---
 
 ## Research Context
 - **Area:** Human–Computer Interaction (HCI), Digital Wellbeing, Behavior Change
-- **Topic focus:** Problematic Smartphone Use (PSU) and self-regulation support for students
+- **Topic focus:** Student procrastination and self-regulation support through mobile intervention design
 - **Goal:** Translate evidence-informed design into a functional mobile intervention and evaluate it using standard UX measures
 
 ---
@@ -56,7 +56,7 @@ This repository is a **showcase version** prepared for academic review (PhD appl
 ---
 
 ## Tech Stack
-- **Swift / SwiftUI**
+- **Swift / SwiftUI (iOS)**
 - Architecture: **MVVM**
 - Offline-first persistence: **UserDefaults + JSON encoding**
 - Local notifications: **UNUserNotificationCenter**
